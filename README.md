@@ -4,7 +4,7 @@ I have a BSc (Hons) Artificial Intelligence (graduated with a first in 2024) and
 
 ## Classification Problems
 
-1. [Non-Linear Binary Classification](https://github.com/4igeek/TensorFlow/blob/main/Classification/NonLinearBinaryClassification.ipynb) - A binary classification problem with non-linearity.
+1. [Non-Linear Binary Classification](https://github.com/4igeek/TensorFlow/blob/main/Classification/NonLinearBinaryClassification.ipynb) - Solve a binary classification problem with non-linearity.
 
 ---
 
