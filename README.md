@@ -2,8 +2,9 @@
 
 I have a BSc (Hons) Artificial Intelligence (graduated with a first in 2024) and this repository contains my notes as I prepare to take the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). Feel free to use anything in this repository to further your own projects and your own understanding.
 
-## Start here (probably)
+## Start here
 
+If you're new to all this then you're probably best off starting here.
 [Linear vs Non-Linear Activation Functions](https://github.com/4igeek/TensorFlow/blob/main/Reference/LinearVsNonLinearActivations.ipynb) - Expolring various activation functions.
 
 ---
