@@ -2,6 +2,10 @@
 
 I have a BSc (Hons) Artificial Intelligence (graduated with a first in 2024) and this repository contains my notes as I prepare to take the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). Feel free to use anything in this repository to further your own projects and your own understanding.
 
+## Start here (probably)
+
+[Linear vs Non-Linear Activation Functions](https://github.com/4igeek/TensorFlow/blob/main/Reference/LinearVsNonLinearActivations.ipynb) - Expolring various activation functions.
+
 ## Classification Problems
 
 1. [Non-Linear Binary Classification](https://github.com/4igeek/TensorFlow/blob/main/Classification/NonLinearBinaryClassification.ipynb) - Solve a binary classification problem with non-linearity.
@@ -9,8 +13,6 @@ I have a BSc (Hons) Artificial Intelligence (graduated with a first in 2024) and
 ---
 
 ## Useful Notes (Reference)
-
-[Linear vs Non-Linear Activation Functions](https://github.com/4igeek/TensorFlow/blob/main/Reference/LinearVsNonLinearActivations.ipynb) - Expolring various activation functions.
 
 [Learning Rate Optimisation](https://github.com/4igeek/TensorFlow/blob/main/Reference/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
 
