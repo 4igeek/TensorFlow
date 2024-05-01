@@ -4,12 +4,12 @@ I have a BSc (Hons) Artificial Intelligence (graduated in 2024) and this reposit
 
 1. [Non-Linear Binary Classification](https://github.com/VilPeas/TensorFlow/blob/main/NonLinearBinaryClassification.ipynb) - A binary classification problem with non-linearity.
 
-## Useful notes (reference)
+## Useful Notes (Reference)
 
 [Linear vs Non-Linear Activation Functions](https://github.com/VilPeas/TensorFlow/blob/main/LinearVsNonLinearActivations.ipynb) - Expolring various activation functions.
 
 [Learning Rate Optimisation](https://github.com/VilPeas/TensorFlow/blob/main/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
 
-## Re-used functionality
+## Re-Used Functionality
 
 - [Plot Library](https://github.com/VilPeas/TensorFlow/blob/main/PlotLibrary.py) - which contains the functionality that draws a decision boundary (used in various notebooks).
