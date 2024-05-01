@@ -2,7 +2,7 @@
 
 I have a BSc (Hons) Artificial Intelligence (graduated in 2024) and this repository contains my notes as I prepare to take the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate).
 
-1. [Non-Linear Binary Classification](https://github.com/4igeek/TensorFlow/blob/main/NonLinearBinaryClassification.ipynb) - A binary classification problem with non-linearity.
+1. [Non-Linear Binary Classification](https://github.com/4igeek/TensorFlow/blob/main/Classification/NonLinearBinaryClassification.ipynb) - A binary classification problem with non-linearity.
 
 ## Useful Notes (Reference)
 
