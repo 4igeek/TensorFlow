@@ -10,7 +10,7 @@ I have a BSc (Hons) Artificial Intelligence (graduated in 2024) and this reposit
 
 [Learning Rate Optimisation](https://github.com/4igeek/TensorFlow/blob/main/Reference/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
 
-[Classification Evaluation Methods](https://github.com/4igeek/TensorFlow/blob/main/Reference/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
+[Classification Evaluation Methods](https://github.com/4igeek/TensorFlow/blob/main/Reference/ClassificationEvaluationMethods.ipynb) - What are the classification methods?
 
 ## Re-Used Functionality
 
