@@ -7,6 +7,7 @@ I have a BSc (Hons) Artificial Intelligence (graduated in 2024) and this reposit
 ## Useful notes (reference)
 
 [Linear vs Non-Linear Activation Functions](https://github.com/VilPeas/TensorFlow/blob/main/LinearVsNonLinearActivations.ipynb)
+[Learning Rate Optimisation](https://github.com/VilPeas/TensorFlow/blob/main/LearningRateOptimisation.ipynb)
 
 ## Re-used functionality
 
