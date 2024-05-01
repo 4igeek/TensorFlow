@@ -6,9 +6,9 @@ I have a BSc (Hons) Artificial Intelligence (graduated in 2024) and this reposit
 
 ## Useful Notes (Reference)
 
-[Linear vs Non-Linear Activation Functions](https://github.com/VilPeas/TensorFlow/blob/main/LinearVsNonLinearActivations.ipynb) - Expolring various activation functions.
+[Linear vs Non-Linear Activation Functions](https://github.com/VilPeas/TensorFlow/blob/main/Reference/LinearVsNonLinearActivations.ipynb) - Expolring various activation functions.
 
-[Learning Rate Optimisation](https://github.com/VilPeas/TensorFlow/blob/main/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
+[Learning Rate Optimisation](https://github.com/VilPeas/TensorFlow/blob/main/Reference/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
 
 ## Re-Used Functionality
 
