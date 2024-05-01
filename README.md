@@ -5,6 +5,7 @@ I have a BSc (Hons) Artificial Intelligence (graduated with a first in 2024) and
 ## Start here
 
 If you're new to all this then you're probably best off starting here.
+
 [Linear vs Non-Linear Activation Functions](https://github.com/4igeek/TensorFlow/blob/main/Reference/LinearVsNonLinearActivations.ipynb) - Expolring various activation functions.
 
 ---
