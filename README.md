@@ -10,6 +10,8 @@ I have a BSc (Hons) Artificial Intelligence (graduated in 2024) and this reposit
 
 [Learning Rate Optimisation](https://github.com/4igeek/TensorFlow/blob/main/Reference/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
 
+[Classification Evaluation Methods](https://github.com/4igeek/TensorFlow/blob/main/Reference/LearningRateOptimisation.ipynb) - How to optimise the Learning Rate.
+
 ## Re-Used Functionality
 
 - [Plot Library](https://github.com/4igeek/TensorFlow/blob/main/PlotLibrary.py) - which contains the functionality that draws a decision boundary (used in various notebooks).
