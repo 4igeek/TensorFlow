@@ -1,6 +1,6 @@
 # TensorFlow ML Projects
 
-I have a BSc (Hons) Artificial Intelligence (graduated with a first in 2024) and this repository contains my notes as I prepare to take the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). Feel free to use anything in this repository to further your own understanding.
+I have a BSc (Hons) Artificial Intelligence (graduated with a first in 2024) and this repository contains my notes as I prepare to take the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate). Feel free to use anything in this repository to further your own projects and your own understanding.
 
 ## Classification Problems
 
