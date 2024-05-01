@@ -16,6 +16,8 @@ I have a BSc (Hons) Artificial Intelligence (graduated in 2024) and this reposit
 
 [Classification Evaluation Methods](https://github.com/4igeek/TensorFlow/blob/main/Reference/ClassificationEvaluationMethods.ipynb) - What are the classification methods?
 
+[Confusion Matrix](https://github.com/4igeek/TensorFlow/blob/main/Reference/ConfusionMatrix.ipynb) - How to implement and visaulise a confusion matrix.
+
 ## Re-Used Functionality
 
 - [Plot Library](https://github.com/4igeek/TensorFlow/blob/main/PlotLibrary.py) - which contains the functionality that draws a decision boundary (used in various notebooks).
