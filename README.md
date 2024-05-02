@@ -29,3 +29,5 @@ If you're new to all this then you're probably best off starting here.
 ## Re-Used Functionality
 
 - [Plot Library](https://github.com/4igeek/TensorFlow/blob/main/PlotLibrary.py) - which contains the functionality that draws a decision boundary (used in various notebooks).
+
+- [Confusion Matrix](https://github.com/4igeek/TensorFlow/blob/main/MakeConfusionMatrix.py) - a reusable function we can use to generate confusion matrix.
