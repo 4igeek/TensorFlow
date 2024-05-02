@@ -14,6 +14,8 @@ If you're new to all this then you're probably best off starting here.
 
 1. [Non-Linear Binary Classification](https://github.com/4igeek/TensorFlow/blob/main/Classification/NonLinearBinaryClassification.ipynb) - Solve a binary classification problem with non-linearity.
 
+2. [Multi-Class Classification](https://github.com/4igeek/TensorFlow/blob/main/Classification/MultiClassClassification.ipynb) - Solve a binary classification problem with non-linearity.
+
 ---
 
 ## Useful Notes (Reference)
