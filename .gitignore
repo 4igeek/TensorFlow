@@ -6,7 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-*.zip
+# Datasets that are retrieved by notebook
+pizza_steak.zip
 
 # Distribution / packaging
 .Python
