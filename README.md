@@ -16,6 +16,10 @@ If you're new to all this then you're probably best off starting here.
 
 2. [Multi-Class Classification](https://github.com/4igeek/TensorFlow/blob/main/Classification/MultiClassClassification.ipynb) - Solve a binary classification problem with non-linearity.
 
+## Computer vision
+
+1. [Convolutional Neural Networks](https://github.com/4igeek/TensorFlow/blob/main/Computer%20Vision%20%26%20CNN/ConvolutionalNeuralNetwork.ipynb) - Solving problems with images.
+
 ---
 
 ## Useful Notes (Reference)
