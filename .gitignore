@@ -8,6 +8,7 @@ __pycache__/
 
 # Datasets that are retrieved by notebook
 pizza_steak.zip
+*.zip.*
 
 # Distribution / packaging
 .Python
